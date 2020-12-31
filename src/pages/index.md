@@ -72,7 +72,7 @@ sections:
     title: Testimonials
     type: section_testimonials
   - actions:
-      - label: View Blog
+      - label: View All Blog
         style: button
         type: action
         url: blog
@@ -80,7 +80,7 @@ sections:
     posts_number: 3
     section_id: latest-posts
     subtitle: An optional subtitle of the section
-    title: Latest from the Blog
+    title: Latest Insights
     type: section_posts
 template: advanced
 ---
