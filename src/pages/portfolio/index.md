@@ -1,6 +1,7 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: My latest creations and more
 layout_style: mosaic
 template: portfolio
 ---
+
