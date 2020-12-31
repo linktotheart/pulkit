@@ -5,20 +5,26 @@ sections:
   - actions:
       - icon_class: fa-chevron-right
         label: Say Hi!
-        style: icon
+        style: button
         type: action
         url: /contact
+      - label: Download CV
+        new_window: true
+        style: link
+        type: action
+        url: >-
+          https://drive.google.com/file/d/1PDwC80b-9oZnL1u2AL8o4ZEmvWZAsc3d/view?usp=sharing
     content: >-
-      I am a UI/UX designer, who loves to create modern, unique, and clean
-      sites. I also enjoy crafting brand icons and illustrations. I love cats
+      I am a *UI/UX designer*, who loves to create modern, unique, and clean
+      websites. I also enjoy crafting brand icons and illustrations. I love cats
       and 90's retro games.
     section_id: hero
-    title: 'Hi, my name is Pulkit Singh. Welcome to my portfolio!'
+    title: 'Hello I''m Pulkit Singh, A Full-Stack Designer!'
     type: section_hero
   - layout_style: mosaic
     projects_number: 6
     section_id: latest-projects
-    subtitle: An optional subtitle of the section
+    subtitle: Here is my recent case studies
     title: Recent Work
     type: section_portfolio
     view_all_label: View All
@@ -26,9 +32,8 @@ sections:
   - col_number: three
     grid_items:
       - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          Mastering CSS *frameworks*, javascript libs, *typography* and color
+          harmony, with lint of advanced tools like Adobe XD, Figma.
         title: UI/UXDesign
         type: grid_item
       - content: >-
@@ -50,20 +55,20 @@ sections:
     section_id: testimonials
     subtitle: What clients are saying
     testimonials:
-      - author: Sean Salazar
+      - author: Nikita Shelar
         avatar: images/sean_salazar.jpg
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla.
         type: testimonial
-      - author: Aubrey Hoover
+      - author: Garima Ajaye
         avatar: images/aubrey_hoover.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         type: testimonial
-      - author: Deegan Wallace
+      - author: 'Irina '
         avatar: images/deegan_wallace.jpg
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
