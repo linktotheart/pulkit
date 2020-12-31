@@ -2,47 +2,41 @@
 title: Contact
 hide_title: false
 sections:
-  - type: section_form
-    section_id: contact-form
-    content: >-
+  - content: >-
       Hi there! Thank you so much for your interest in working together. Please
       fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
-    form_id: contactForm
+      [pulkitsingh302@gmail.com](mailto:example@example.com).
     form_action: /thank-you
     form_fields:
-      - type: form_field
+      - default_value: Your name
         input_type: text
-        name: name
+        is_required: true
         label: Name
-        default_value: Your name
-        is_required: true
-      - type: form_field
+        name: name
+        type: form_field
+      - default_value: Your email address
         input_type: email
-        name: email
-        label: Email
-        default_value: Your email address
         is_required: true
-      - type: form_field
-        input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
-        options:
-          - Error on the site
-          - Sponsorship
-          - Other
-      - type: form_field
+        label: Email
+        name: email
+        type: form_field
+      - default_value: Your message
         input_type: textarea
-        name: message
         label: Message
-        default_value: Your message
-      - type: form_field
-        input_type: checkbox
-        name: consent
+        name: message
+        type: form_field
+      - input_type: checkbox
         label: >-
           I understand that this form is storing my submitted information so I
           can be contacted.
+        name: consent
+        type: form_field
+    form_id: contactForm
+    section_id: contact-form
     submit_label: Send Message
+    subtitle: Get in touch with me or use my social handles to ping me.
+    title: Don't be shy to say hi!
+    type: section_form
 template: advanced
 ---
+
