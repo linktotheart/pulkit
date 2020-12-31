@@ -1,0 +1,88 @@
+{
+    "title": "Stackbit Exto Theme",
+    "description": "A portfolio theme with a blog",
+    "color_scheme": "light",
+    "accent_color": "pink",
+    "header": {
+        "type": "header",
+        "title": "Exto",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "type": "action",
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Portfolio",
+                "url": "/portfolio/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            }
+        ]
+    },
+    "footer": {
+        "type": "footer",
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=exto\" target=\"_blank\" rel=\"noopener\">here</a>.",
+        "has_social": true,
+        "social_links": [
+            {
+                "type": "action",
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "icon",
+                "icon_class": "fa-twitter",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "icon",
+                "icon_class": "fa-instagram",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Dribbble",
+                "url": "https://dribbble.com/",
+                "style": "icon",
+                "icon_class": "fa-dribbble",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon_class": "fa-linkedin",
+                "new_window": true
+            }
+        ]
+    }
+}
