@@ -48,7 +48,7 @@ sections:
     type: section_grid
   - col_number: three
     section_id: testimonials
-    subtitle: No one ever said so!
+    subtitle: What clients are saying
     testimonials:
       - author: Sean Salazar
         avatar: images/sean_salazar.jpg
@@ -69,7 +69,7 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
         type: testimonial
-    title: What clients are saying
+    title: Testimonials
     type: section_testimonials
   - actions:
       - label: View Blog
