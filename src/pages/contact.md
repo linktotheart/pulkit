@@ -1,6 +1,6 @@
 ---
-title: Contact
-hide_title: false
+title: Contact Me
+hide_title: true
 sections:
   - content: >-
       Hi there! Thank you so much for your interest in working together. Please
@@ -35,7 +35,7 @@ sections:
     section_id: contact-form
     submit_label: Send Message
     subtitle: Get in touch with me or use my social handles to ping me.
-    title: Don't be shy to say hi!
+    title: ''
     type: section_form
 template: advanced
 ---
