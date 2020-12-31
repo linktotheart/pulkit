@@ -1,10 +1,11 @@
 {
-  "title": "Pulkit Singh | Homepage",
+  "title": "Pulkit Singh",
   "description": "Portfolio | Blog | pulkit Singh | UI/UX Designer Developer",
   "color_scheme": "light",
   "accent_color": "blue",
   "header": {
     "title": "Pulkit",
+    "logo_img": "/images/pulkit.jpg",
     "has_nav": true,
     "nav_links": [
       {
@@ -41,12 +42,13 @@
     "type": "header"
   },
   "footer": {
-    "content": "&copy; Pulkit. Made with ❤️ using <a href=\"https:/gatsbyjs.com\" target=\"_blank\" rel=\"noopener\">Gatsby </a>.",
+    "content": "&copy;  Made with ❤️ using <a href=\"https:/gatsbyjs.com\" target=\"_blank\" rel=\"noopener\">Gatsby</a>.",
+    "links": [],
     "has_social": true,
     "social_links": [
       {
         "label": "Facebook",
-        "url": "https://dribbble.com/",
+        "url": "https://facebook.com/puwukitty",
         "style": "icon",
         "icon_class": "fa-facebook",
         "new_window": true,
@@ -54,7 +56,7 @@
       },
       {
         "label": "Twitter",
-        "url": "https://twitter.com/",
+        "url": "https://twitter.com/ultraaaaviolent",
         "style": "icon",
         "icon_class": "fa-twitter",
         "new_window": true,
@@ -62,7 +64,7 @@
       },
       {
         "label": "Instagram",
-        "url": "https://www.instagram.com/",
+        "url": "https://www.instagram.com/ultraaaaaviolent/",
         "style": "icon",
         "icon_class": "fa-instagram",
         "new_window": true,
@@ -70,9 +72,17 @@
       },
       {
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
+        "url": "https://www.linkedin.com/in/pulkitsingh302/",
         "style": "icon",
         "icon_class": "fa-linkedin",
+        "new_window": true,
+        "type": "action"
+      },
+      {
+        "label": "Tumblr",
+        "url": "https://linktotheart.tumblr.com/",
+        "style": "icon",
+        "icon_class": "fa-tumblr",
         "new_window": true,
         "type": "action"
       }
