@@ -2,90 +2,86 @@
 title: Home
 hide_title: true
 sections:
-  - type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
-    section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
-    actions:
-      - type: action
-        label: Let's talk
+  - actions:
+      - icon_class: fa-chevron-right
+        label: Say Hi!
+        style: icon
+        type: action
         url: /contact
-        style: button
-  - type: section_portfolio
-    title: Recent Work
+    content: >-
+      I am a UI/UX designer, who loves to create modern, unique, and clean
+      sites. I also enjoy crafting brand icons and illustrations. I love cats
+      and 90's retro games.
+    section_id: hero
+    title: 'Hi, my name is Pulkit Singh. Welcome to my portfolio!'
+    type: section_hero
+  - layout_style: mosaic
+    projects_number: 6
     section_id: latest-projects
     subtitle: An optional subtitle of the section
-    layout_style: mosaic
-    projects_number: 6
+    title: Recent Work
+    type: section_portfolio
     view_all_label: View All
     view_all_url: portfolio
-  - type: section_grid
-    title: What We Do
-    section_id: services
-    subtitle: An optional subtitle of the section
-    col_number: two
-    is_numbered: true
+  - col_number: three
     grid_items:
-      - type: grid_item
-        title: Service Title
-        content: >-
+      - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-      - type: grid_item
-        title: Service Title
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
-      - type: grid_item
-        title: Service Title
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
-      - type: grid_item
-        title: Service title
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - type: section_testimonials
-    title: Testimonials
+        title: UI/UXDesign
+        type: grid_item
+      - content: >-
+          Making websites more beautiful than ever, possibly with the latest web
+          technologies in an efficient and reliable way.
+        title: Web Developing
+        type: grid_item
+      - content: >-
+          Using ionic, and react-native as a base to create modern and beautiful
+          hybrid apps from scratch.
+        title: App developing
+        type: grid_item
+    is_numbered: true
+    section_id: services
+    subtitle: ''
+    title: Specializing In
+    type: section_grid
+  - col_number: three
     section_id: testimonials
-    subtitle: An optional subtitle of the section
-    col_number: three
+    subtitle: What clients are saying
     testimonials:
-      - type: testimonial
-        author: Sean Salazar
+      - author: Sean Salazar
         avatar: images/sean_salazar.jpg
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla.
-      - type: testimonial
-        author: Aubrey Hoover
+        type: testimonial
+      - author: Aubrey Hoover
         avatar: images/aubrey_hoover.jpg
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - type: testimonial
-        author: Deegan Wallace
+        type: testimonial
+      - author: Deegan Wallace
         avatar: images/deegan_wallace.jpg
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
-  - type: section_posts
-    title: Latest from the Blog
+        type: testimonial
+    title: Testimonials
+    type: section_testimonials
+  - actions:
+      - label: View Blog
+        style: button
+        type: action
+        url: blog
+    col_number: three
+    posts_number: 3
     section_id: latest-posts
     subtitle: An optional subtitle of the section
-    posts_number: 3
-    col_number: three
-    actions:
-      - type: action
-        label: View Blog
-        url: blog
-        style: button
+    title: Latest from the Blog
+    type: section_posts
 template: advanced
 ---
+
