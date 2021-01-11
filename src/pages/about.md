@@ -1,14 +1,19 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
-image: images/about.jpg
+title: About Me
+subtitle: 'INFP | Scorpio | Wallflower | Geek '
+image: /images/Untitled design.jpg
 template: page
 ---
+Pulkit Singh is a creative, full-stack developer, who likes to design website from scratch in a mannerly yet modern-creative way. From Branding to illustrations,  and app designs, we got you covered. He spent most of his time reading and thinking about the mysteries of cosmos, and trying out new frameworks/libraries. Since 2020 been a good year for new JavaScript Libraries. or on his playstattion  He believes, there's always something new to do, or try. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+On weekends, you can find him in a local cafe/bar, or in a dark room drawing/doodling stuff. Yep, he's good at it somewhat. Can't wait until he opens an online art gallery.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+`One question he ask himself everyday is "What is wrong with these people?" AND/OR "What the heck were they thinking?" `
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+He's also writing a book code-named "People I have Met" which is about all the people(s) and friend he met through out his life. 
+
+> The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+
+In conclusion, If you're here, you'll already like the guy. B-) 
 
 *Thank You for reading!*
