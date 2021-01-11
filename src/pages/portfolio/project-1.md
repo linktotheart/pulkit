@@ -3,7 +3,7 @@ title: 'Coffee with Me - CTA '
 subtitle: ''
 date: '2019-05-10'
 thumb_image: /images/Group 1.png
-image: /images/Group 1.png
+image: /images/Group 1.jpg
 template: project
 ---
 Designed solely in Figma, and coded in CSS3. 
