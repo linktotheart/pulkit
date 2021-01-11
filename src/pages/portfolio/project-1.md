@@ -1,6 +1,6 @@
 ---
 title: 'Coffee with Me - CTA '
-subtitle: Optional Project Subtitle
+subtitle: ''
 date: '2019-05-10'
 thumb_image: /images/Group 1.png
 image: /images/Group 1.png
