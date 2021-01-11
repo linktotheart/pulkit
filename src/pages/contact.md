@@ -34,7 +34,7 @@ sections:
     form_id: contactForm
     section_id: contact-form
     submit_label: Send Message
-    subtitle: Get in touch with me or use my social handles to ping me.
+    subtitle: Don't Be Shy to Say Hi!
     title: ''
     type: section_form
 template: advanced
