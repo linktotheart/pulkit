@@ -47,10 +47,10 @@
     "has_social": true,
     "social_links": [
       {
-        "label": "Facebook",
-        "url": "https://facebook.com/puwukitty",
+        "label": "Behance",
+        "url": "https://www.behance.net/pulkitsingh2",
         "style": "icon",
-        "icon_class": "fa-facebook",
+        "icon_class": "fa-behance",
         "new_window": true,
         "type": "action"
       },
