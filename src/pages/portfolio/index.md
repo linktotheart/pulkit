@@ -1,6 +1,6 @@
 ---
 title: Recent Works
-subtitle: My awesome projects
+subtitle: It's okay they won't understand you either
 layout_style: mosaic
 template: portfolio
 ---
