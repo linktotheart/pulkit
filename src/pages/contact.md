@@ -1,6 +1,7 @@
 ---
 title: Contact Me
 hide_title: true
+excerpt: Contact Us | Pulkit Singh | Developer
 sections:
   - content: >-
       Hi there! Thank you so much for your interest in working together. Please
@@ -34,7 +35,7 @@ sections:
     form_id: contactForm
     section_id: contact-form
     submit_label: Send Message
-    subtitle: Get in touch with me or use my social handles to ping me.
+    subtitle: Don't Be Shy to Say Hi!
     title: ''
     type: section_form
 template: advanced
