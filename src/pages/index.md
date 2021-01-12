@@ -24,7 +24,7 @@ sections:
   - layout_style: mosaic
     projects_number: 6
     section_id: latest-projects
-    subtitle: Here is my recent case studies
+    subtitle: Some of my past works
     title: Recent Work
     type: section_portfolio
     view_all_label: View All
@@ -84,7 +84,7 @@ sections:
     col_number: three
     posts_number: 3
     section_id: latest-posts
-    subtitle: An optional subtitle of the section
+    subtitle: Blogs and recent case studies
     title: Latest Insights
     type: section_posts
 template: advanced
