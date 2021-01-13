@@ -1,6 +1,6 @@
 ---
 title: Contact Me
-hide_title: true
+hide_title: false
 excerpt: Contact Us | Pulkit Singh | Developer
 sections:
   - content: >-
@@ -35,8 +35,8 @@ sections:
     form_id: contactForm
     section_id: contact-form
     submit_label: Send Message
-    subtitle: Don't Be Shy to Say Hi!
-    title: ''
+    subtitle: ''
+    title: Don't Be Shy to Say Hi!
     type: section_form
 template: advanced
 ---
