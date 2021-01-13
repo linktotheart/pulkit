@@ -18,6 +18,9 @@ sections:
       I am a *UI/UX designer*, who loves to create modern, unique, and clean
       websites. I also enjoy crafting brand icons and illustrations. I love cats
       and 90's retro games.
+
+
+      *Currently Working as front-end developer at Corpseed*
     section_id: hero
     title: 'Hello I''m Pulkit Singh, A Full-Stack Designer!'
     type: section_hero
