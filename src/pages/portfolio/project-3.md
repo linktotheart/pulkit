@@ -2,7 +2,7 @@
 title: Nirva -  Ecommerce theme
 subtitle: Clean modern and minimal shopping store theme.
 date: 2020-08-07T18:30:00.000Z
-thumb_image: /images/nivatheme.jpg
+thumb_image: /images/nirva.jpg
 image: /images/nivatheme.jpg
 template: project
 ---
