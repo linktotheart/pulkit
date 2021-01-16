@@ -6,6 +6,12 @@ template: page
 ---
 Pulkit Singh is a creative, full-stack developer, who likes to design website from scratch in a mannerly yet modern-creative way. From Branding to illustrations,  and app designs, we got you covered. He spent most of his time reading and thinking about the mysteries of cosmos, and trying out new frameworks/libraries. Since 2020 been a good year for new JavaScript Libraries. or on his PlayStation  He believes, there's always something new to do, or try. 
 
+<!--StartFragment-->
+
+As a self-taught developer I had the chance to broaden my horizon by studying **Computer Science Engineering** where I hold a Bachelors' degree.  While learning, that I enjoy development more than these fields, the time in this sector greatly improved my overall experience and technical skills.
+
+<!--EndFragment-->
+
 #### **Personal Experience**
 
 <!--StartFragment-->
@@ -14,27 +20,14 @@ Starting out at the age of 13 I never stopped learning new programming skills an
 
 <!--EndFragment-->
 
-
-
 #### Work Experience
 
 1. **Technical Head** (Big data 2018) - ABESIT Ghaziabad
-
 2. **Graphics Designer** at Alamiy Creations, Delhi (Dec 2018 - march 2019)
-
 3. **Web Developer** at Clanstech Pvt Ltd, Noida. (Feb 2020 - Aug 2020)
-
 4. **Web Developer** at Corpseed ITES Ltd, Noida (Sep 2020 - Current date)
 
-
-
-
-
 \================================================================
-
-
-
-
 
 ![](/images/svosndlsdnc.png)
 
@@ -43,9 +36,5 @@ I'm also writing a book code-named "People I have Met" which is about all the pe
 > The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
 In conclusion, If you're here, you are already a big fan!
-
-
-
-
 
 *Thank You for reading!*
