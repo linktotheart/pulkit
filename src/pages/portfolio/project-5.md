@@ -1,17 +1,48 @@
 ---
-title: Project Title 5
-subtitle: Optional Project Subtitle
-date: '2019-01-05'
-thumb_image: images/5_thumb.jpg
-image: images/5.jpg
+title: CSK - Creative Agency
+subtitle: A resposnive modern theme for Creative agency
+date: 2020-11-25T18:30:00.000Z
+thumb_image: /images/csk.jpg
+image: /images/csk.jpg
 template: project
 ---
+<!--StartFragment-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi morbi tempus iaculis urna. Non curabitur gravida arcu ac tortor dignissim. Pretium quam vulputate dignissim suspendisse in est. Ante in nibh mauris cursus mattis. Adipiscing bibendum est ultricies integer quis auctor elit sed vulputate. Facilisi nullam vehicula ipsum a arcu cursus. Habitant morbi tristique senectus et. Urna duis convallis convallis tellus id interdum velit. Sociis natoque penatibus et magnis. Adipiscing tristique risus nec feugiat in fermentum posuere.
+CSK - Creative Agency Responsive Portfolio Template made with bootstrap, CSS, HTML5 and JavaScript. It is crafted for portfolio, services, and other personal uses. It’s a one-page template with clean design, fully responsive and looks stunning on all devices. it’s very easy to use and customize, comes with trending features and unique design. Moreover, it has a beautiful design with a clean and minimal look. Custom illustrations make CSK more eye-catchy and attractive. Plus, it is fully responsive with cross-browser optimization.
 
->"You can't use up creativity. The more you use, the more you have." - Maya Angelou
+\
+CSK is already optimized for mobile and smaller devices. It is also very easy to customize with well-structured and clean code.
 
-Feugiat in fermentum posuere urna nec tincidunt praesent semper. Bibendum enim facilisis gravida neque convallis a. Diam donec adipiscing tristique risus nec feugiat in fermentum. Vitae suscipit tellus mauris a diam. Sit amet aliquam id diam maecenas. Id velit ut tortor pretium viverra suspendisse. Massa tincidunt dui ut ornare lectus sit amet est. Dui vivamus arcu felis bibendum ut tristique et egestas quis. Purus sit amet volutpat consequat mauris nunc congue nisi. Et netus et malesuada fames ac. Sed faucibus turpis in eu. Pharetra pharetra massa massa ultricies. Non enim praesent elementum facilisis leo vel fringilla est ullamcorper. Quis hendrerit dolor magna eget est.
+\
+The CSK template comes with all basic elements and sections for creating one-page websites such as: “About us”, “Services”, “Portfolio”, “Contact Form” and others.
 
-Elit pellentesque habitant morbi tristique senectus et netus et. Cras adipiscing enim eu turpis egestas pretium aenean pharetra magna. Turpis egestas pretium aenean pharetra magna ac placerat. Suspendisse sed nisi lacus sed viverra tellus in. Lectus arcu bibendum at varius vel pharetra vel turpis. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Donec pretium vulputate sapien nec sagittis. Ipsum a arcu cursus vitae congue mauris rhoncus aenean. Sed euismod nisi porta lorem. Semper quis lectus nulla at. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Eu tincidunt tortor aliquam nulla facilisi cras fermentum odio eu. Aliquam sem et tortor consequat id porta. Aliquam ut porttitor leo a diam sollicitudin tempor id eu. Ipsum dolor sit amet consectetur adipiscing elit.
+<!--EndFragment-->
 
+
+
+> "You can't use up creativity. The more you use, the more you have." - Maya Angelou
+
+<!--StartFragment-->
+
+**Key Features**\
+•Bootstrap 4\
+• Creative and Modern design\
+• Cross-browser compatibility\
+• Animated Backgrounds\
+•Fully responsive\
+• Smooth Scroll\
+• One-page Design\
+• Testimonial carousel\
+• About us section\
+• Services section\
+• Portfolio Gallery\
+• Contact form\
+• FontAwesome font icons
+
+\
+**BROWSER SUPPORT**\
+This template supports all modern browsers (Chrome, Firefox, Safari, Edge).
+
+<!--EndFragment-->
+
+<a href="http://csk.clanstech.com" target="_blank"  class="button"> See Live Preview </a>
