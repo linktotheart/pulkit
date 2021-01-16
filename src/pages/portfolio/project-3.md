@@ -20,6 +20,8 @@ The name **Nirva** is inspired by Nirvana for it's cleanness.
 
 > "Design adds value faster than it adds costs." - Joel Spolsky
 
+![](/images/noptheme.clanstech.com_ (3).png)
+
 #### **Features**
 
 <!--StartFragment-->
