@@ -38,4 +38,4 @@ The name **Nirva** is inspired by Nirvana for it's cleanness.
 
 > "Thank you for the tragedy, I needed it for my art" - Kurt Cobain
 
-<a href="https://noptheme.clanstech.com" class="button "> See Live Preview </a>
+<a href="http://noptheme.clanstech.com" class="button "> See Live Preview </a>
