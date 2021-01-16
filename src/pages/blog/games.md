@@ -1,16 +1,21 @@
 ---
-title: What are some of the best designed video games
-date: '2018-01-09'
-thumb_image: images/6.jpg
-image: images/6.jpg
-excerpt: >-
-  Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Duis
-  tristique sollicitudin nibh sit amet commodo nulla facilisi.
+title: What are some of the best designed video games?
+date: 2020-12-31T18:30:00.000Z
+thumb_image: /images/download.jpg
+image: /images/mario.jpg
+excerpt: ''
 template: post
 ---
+<!--StartFragment-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum nisi quis eleifend quam adipiscing vitae proin. Fermentum dui faucibus in ornare quam viverra orci sagittis. Nunc mattis enim ut tellus elementum sagittis. Sed nisi lacus sed viverra tellus. Lectus arcu bibendum at varius vel. Lacus laoreet non curabitur gravida arcu. Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Eget dolor morbi non arcu. Volutpat est velit egestas dui id ornare arcu. Orci porta non pulvinar neque laoreet suspendisse interdum. Odio euismod lacinia at quis risus. Iaculis nunc sed augue lacus viverra. Suspendisse in est ante in nibh mauris cursus. Consectetur adipiscing elit ut aliquam purus sit amet luctus venenatis. Non odio euismod lacinia at quis risus sed vulputate. Semper viverra nam libero justo. Amet cursus sit amet dictum sit.
 
-Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Mauris augue neque gravida in fermentum et. Tincidunt lobortis feugiat vivamus at augue. Iaculis urna id volutpat lacus laoreet. Risus feugiat in ante metus dictum at tempor commodo. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. Enim eu turpis egestas pretium aenean pharetra magna. Urna cursus eget nunc scelerisque viverra mauris in aliquam. Vulputate dignissim suspendisse in est ante in nibh mauris cursus. A cras semper auctor neque vitae. Rhoncus dolor purus non enim praesent elementum facilisis. Nam aliquam sem et tortor consequat id porta nibh venenatis. Sollicitudin ac orci phasellus egestas tellus. Et magnis dis parturient montes nascetur ridiculus.
 
-Tincidunt lobortis feugiat vivamus at augue eget arcu. Est lorem ipsum dolor sit amet consectetur adipiscing elit. Non nisi est sit amet facilisis magna etiam tempor. Et egestas quis ipsum suspendisse. Turpis egestas pretium aenean pharetra magna. Diam sollicitudin tempor id eu nisl nunc mi ipsum. Diam in arcu cursus euismod quis viverra nibh cras. Ornare lectus sit amet est placerat in egestas erat imperdiet. Adipiscing enim eu turpis egestas pretium. Sit amet est placerat in egestas. Euismod lacinia at quis risus sed vulputate odio. Quis commodo odio aenean sed adipiscing diam. Fermentum et sollicitudin ac orci phasellus. Eget aliquet nibh praesent tristique magna. Quisque sagittis purus sit amet volutpat consequat. Diam quis enim lobortis scelerisque fermentum dui. Leo urna molestie at elementum eu facilisis sed. Eget nulla facilisi etiam dignissim. Volutpat odio facilisis mauris sit amet.
+# Super Mario World - 1990
+
+<!--StartFragment-->
+
+Super Mario World is a 1990 side-scrolling platform game developed and published by Nintendo for the Super Nintendo Entertainment System (SNES). The story follows Mario's quest to save Princess Toadstool and Dinosaur Land from the series antagonist Bowser and his children, the Koopalings. The gameplay is similar to that of earlier Super Mario games: Players control Mario or his brother Luigi through a series of levels in which the goal is to reach the flagpole at the end. Super Mario World introduced Yoshi, a dinosaur who can eat enemies and gain abilities by eating the shells of Koopa Troopas. Nintendo Entertainment Analysis & Development developed the game, led by director Takashi Tezuka and producer and series creator Shigeru Miyamoto. It is the first Mario game for the SNES and was designed to make the most of the console's technical features. The development team had more freedom compared to the series instalments for the Nintendo Entertainment System (NES). Yoshi was conceptualised during the development of the NES games but was not used until Super Mario World due to hardware limitations. Super Mario World is often considered one of the greatest video games of all time. It sold over 20 million copies worldwide, making it the best-selling SNES game. It also led to an animated television series of the same name and a prequel, Yoshi's Island, released in August and October 1995. It has been rereleased on multiple occasions: It was part of the 1994 compilation Super Mario All-Stars + Super Mario World for the SNES and was re-released for the Game Boy Advance as Super Mario World: Super Mario Advance 2 in 2001, on the Virtual Console for the Wii, Wii U, and New Nintendo 3DS consoles, and as part of the Super NES Classic Edition.
+
+![](/images/amidasdi.jpg)
+
+> "*Dear Mario: Please come to the castle. I've baked a cake for you. Yours truly-- Princess Toadstool. Peach.*"
