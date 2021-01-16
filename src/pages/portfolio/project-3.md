@@ -1,8 +1,8 @@
 ---
-title: Nirva -  E-commerce Theme | BS4 | JQ
+title: Nirva -  Ecommerce theme
 subtitle: Clean modern and minimal shopping store theme.
 date: 2020-08-07T18:30:00.000Z
-thumb_image: /images/nivatheme.jpg
+thumb_image: /images/nirva.jpg
 image: /images/nivatheme.jpg
 template: project
 ---
@@ -38,4 +38,4 @@ The name **Nirva** is inspired by Nirvana for it's cleanness.
 
 > "Thank you for the tragedy, I needed it for my art" - Kurt Cobain
 
-<a href="https://noptheme.clanstech.com" class="button "> See Live Preview </a>
+<a href="http://noptheme.clanstech.com" class="button "> See Live Preview </a>
