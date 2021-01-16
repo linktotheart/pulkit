@@ -18,8 +18,6 @@ The design process started in **Figma.**
 
 > "Designers are meant to be loved, not to be understood." - Margaret Oscar
 
-
-
 #### Color Palette
 
 ![](/images/colorsssssssssssssadsd.jpg "Color harmony - Blue evening")
@@ -47,6 +45,14 @@ Login
 
 ![contact us](/images/Contacts.jpg "Contact Us")
 
-
-
 ![Profile - company](/images/company-details.jpg "Profile - company")
+
+<!--StartFragment-->
+
+#### Challenges:
+
+* Each pages were to be responsive and flexible for all device layouts
+* Every page were to be match the same exact theme!
+* Interfaces should feel clean and less cluttered especially in the listing pages
+
+<!--EndFragment-->
