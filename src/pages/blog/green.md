@@ -21,7 +21,7 @@ Below are few of my favourite color palettes.
 
 <!--StartFragment-->
 
-### PNG Image of Vaporwave #1 Color Palette
+### Vaporwave #1 Color Palette
 
 ![](/images/download (1).png)
 
