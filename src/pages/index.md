@@ -87,6 +87,36 @@ sections:
     subtitle: Blogs and recent case studies
     title: Latest Insights
     type: section_posts
+  - col_number: two
+    grid_items:
+      - content: >-
+          <div class="cont">
+
+
+          <div class="skill"> <i class="fa fa-html5"></i> <span> HTML 5</span>
+
+
+          <div class="skill"> <i class="fa fa-css3"></i> <span> CSS 3 </span>
+
+
+          <div class="skill"> <i class="fa fa-jsfiddle"></i> <span> JavaScript
+          </span>
+
+
+
+
+
+
+          </div>
+        title: Tools
+        type: grid_item
+      - title: Web Development
+        type: grid_item
+    is_numbered: false
+    section_id: skills
+    subtitle: Technologies I use
+    title: ''
+    type: section_grid
 template: advanced
 ---
 
