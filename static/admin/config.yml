@@ -2,7 +2,7 @@ backend:
   name: github
   branch: master
   repo: pulkitsingh69/pulkit
-  open_authoring: true
+  open_authoring: false
 media_folder: static/images
 public_folder: /images
 collections:
