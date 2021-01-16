@@ -39,7 +39,7 @@ Google's Ubuntu Font. (Bold/Semi-Bold/Regular)
 
 <!--EndFragment-->
 
-![](/images/LeadBuddha.jpg)
+![](/images/LeadBuddha.jpg "LeadBuddha - Home")
 
 Login 
 
