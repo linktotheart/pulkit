@@ -181,7 +181,7 @@
 		align-items: center;
 		width: auto;
 		position : relative;
-		color: #343437;
+		color: _palette(charcoal-light-40);
 		transition: color .35s ease .35s;
 		&::before{
 			content: '';
@@ -189,7 +189,7 @@
 			width: 2rem;
 			height: 2rem;
 			left: -.75rem;
-			background: #f7f7f7;
+			background: rgba(_palette(charcoal-light-3), 0.5);
 			z-index: -1;
 			transition: width 0.5s ease, background .35s ease .35s;
 			border-radius: 50px;
@@ -197,7 +197,7 @@
 		&:hover{
 			color: #fff;
 			&::before{
-				background: #128;
+				background: _palette(accent);
 				width: calc(100% + 1.75rem);
 			}
 		}
