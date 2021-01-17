@@ -1,9 +1,9 @@
 ---
-title: >-
-  Gatsbyjs VS Nuxtjs? Which is better? What should you choose for your next
-  project?
+title: 'Gatsbyjs VS Nuxtjs? Which is better static site generator? '
+subtitle: What should you choose for your next project?
 date: 2021-01-17T04:26:47.477Z
 thumb_image: /images/acabsdkasnda.png
+image: /images/acabsdkasnda.png
 template: post
 ---
 GatsbyJS and Nuxt Js are both Static Site Generators aka SSG's for React and Vue JS respectively. SO if yu're familiar with react Gatsby should be your go to choice for your next project. It gives routing, image optimization, SEO and so much more out of the box. Let's have a deeper look in both
@@ -14,7 +14,7 @@ GatsbyJS and Nuxt Js are both Static Site Generators aka SSG's for React and Vue
 
 <!--EndFragment-->
 
-## **What is GatsbyJS?** 
+## **What is GatsbyJS?**
 
 <!--StartFragment-->
 
@@ -47,6 +47,7 @@ GatsbyJS is a collection of pros actually and I love it. Here I will explain som
 ## Nuxt.js
 
 Nuxt.js is a free and open source web application framework based on Vue.js, Node.js, webpack and Babel.js for building server-side rendered and/or static web applications using Vue.\
+
 <!--StartFragment-->
 
 [![Nuxt.js](https://res.cloudinary.com/practicaldev/image/fetch/s--IMZ72WkS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/3004/1%2AdKYx6tc_nT6hELIz9_pExg.png)](https://res.cloudinary.com/practicaldev/image/fetch/s--IMZ72WkS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/3004/1%2AdKYx6tc_nT6hELIz9_pExg.png)
