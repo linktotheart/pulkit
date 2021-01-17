@@ -25,10 +25,8 @@ $palette: (
 );
 
 @import "imports/functions";
-
-@import "../../static/assets/scss/line-awesome.scss";
+@import "../../static/assets/css/line-awesome.min.css";
 // @import "../../static/assets/css/brands.min.css";
-
 @import "imports/reset";
 @import "imports/general";
 @import "imports/icons";
