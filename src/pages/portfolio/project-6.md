@@ -18,4 +18,4 @@ Wanna see a quick demo. [Click Here](https://pulkitsingh69.github.io/)
 
 > "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated." - Paul Rand
 
-<a href="https://pulkitsingh69.github.io/" target="_blank" class="button> See Live Demo </a>
+<a href="https://pulkitsingh69.github.io/" target="_blank" class="button"> See Live Demo </a>
