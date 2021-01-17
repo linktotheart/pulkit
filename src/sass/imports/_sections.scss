@@ -188,7 +188,8 @@
 			position: absolute;
 			width: 2rem;
 			height: 2rem;
-			left: -.75rem;
+      left: -.75rem;
+      top: 0;
 			background: rgba(_palette(charcoal-light-3), 0.5);
 			z-index: -1;
 			transition: width 0.5s ease, background .35s ease .35s;
