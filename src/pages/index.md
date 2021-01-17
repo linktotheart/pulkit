@@ -51,6 +51,69 @@ sections:
     subtitle: ''
     title: Specializing In
     type: section_grid
+  - col_number: two
+    grid_items:
+      - content: |-
+          <div class="skills">
+
+          <div class="skill">
+              <div class="icon">
+                  <i class="lab la-html5"></i>
+              </div>
+              <span>HTML 5</span>
+          </div>
+          <div class="skill">
+              <div class="icon">
+                  <i class="lab la-css3"></i>
+              </div>
+              <span>CSS 3</span>
+          </div>
+          <div class="skill">
+              <div class="icon">
+                  <i class="lab la-js-square"></i>
+              </div>
+              <span>JavaScript</span>
+          </div>
+
+          <div class="skill">
+              <div class="icon">
+                  <i class="lab la-bootstrap"></i>
+              </div>
+              <span>Boostrap</span>
+          </div>
+
+          <div class="skill">
+              <div class="icon">
+                  <i class="las la-code"></i>
+              </div>
+              <span>JQuery</span>
+          </div>
+
+          <div class="skill">
+              <div class="icon">
+                  <i class="lab la-react"></i>
+              </div>
+              <span>React</span>
+          </div>
+
+          <div class="skill">
+              <div class="icon">
+                  <i class="lab la-vuejs"></i>
+              </div>
+              <span>Vue</span>
+          </div>
+
+          </div>
+        title: Web development
+        type: grid_item
+      - content: "<div class=\"skills\">\n\n<div class=\"skill\">\n\t\t<div class=\"icon\">\n\t\t\t<i class=\"lab la-git\"></i>\n\t\t</div>\n\t\t<span>git</span>\n\t</div>\n\n<i class=\"lab la-npm\"></i> \t\t</div> \t\t<span>NPM</span> \t</div> \t \t<div class=\"skill\"> \t\t<div class=\"icon\"> <i class=\"lab la-wordpress\"></i>\t\t</div> \t\t<span>Wordpress</span> \t\t \t</div> \t \t<div class=\"skill\"> \t\t<div class=\"icon\"> <i class=\"lab la-npm\"></i> \t\t</div> \t\t<span>NPM</span> \t</div> </div>"
+        title: 'Tools '
+        type: grid_item
+    is_numbered: false
+    section_id: skills
+    subtitle: ''
+    title: Skills and Expertise
+    type: section_grid
   - col_number: three
     section_id: testimonials
     subtitle: What clients are saying
@@ -87,36 +150,6 @@ sections:
     subtitle: Blogs and recent case studies
     title: Latest Insights
     type: section_posts
-  - col_number: two
-    grid_items:
-      - content: >-
-          <div class="cont">
-
-
-          <div class="skill"> <i class="fa fa-html5"></i> <span> HTML 5</span>
-
-
-          <div class="skill"> <i class="fa fa-css3"></i> <span> CSS 3 </span>
-
-
-          <div class="skill"> <i class="fa fa-jsfiddle"></i> <span> JavaScript
-          </span>
-
-
-
-
-
-
-          </div>
-        title: Tools
-        type: grid_item
-      - title: Web Development
-        type: grid_item
-    is_numbered: false
-    section_id: skills
-    subtitle: Technologies I use
-    title: ''
-    type: section_grid
 template: advanced
 ---
 
