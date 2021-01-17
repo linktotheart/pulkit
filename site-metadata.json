@@ -50,7 +50,7 @@
         "label": "Behance",
         "url": "https://www.behance.net/pulkitsingh2",
         "style": "icon",
-        "icon_class": "fa-behance",
+        "icon_class": "la-behance",
         "new_window": true,
         "type": "action"
       },
@@ -58,7 +58,7 @@
         "label": "Twitter",
         "url": "https://twitter.com/ultraaaaviolent",
         "style": "icon",
-        "icon_class": "fa-twitter",
+        "icon_class": "la-twitter",
         "new_window": true,
         "type": "action"
       },
@@ -66,7 +66,7 @@
         "label": "Instagram",
         "url": "https://www.instagram.com/ultraaaaaviolent/",
         "style": "icon",
-        "icon_class": "fa-instagram",
+        "icon_class": "la-instagram",
         "new_window": true,
         "type": "action"
       },
@@ -74,7 +74,7 @@
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/in/pulkitsingh302/",
         "style": "icon",
-        "icon_class": "fa-linkedin",
+        "icon_class": "la-linkedin-in",
         "new_window": true,
         "type": "action"
       },
@@ -82,7 +82,7 @@
         "label": "Tumblr",
         "url": "https://linktotheart.tumblr.com/",
         "style": "icon",
-        "icon_class": "fa-tumblr",
+        "icon_class": "la-tumblr",
         "new_window": true,
         "type": "action"
       }
