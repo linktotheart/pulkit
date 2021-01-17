@@ -74,7 +74,7 @@
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/in/pulkitsingh302/",
         "style": "icon",
-        "icon_class": "la-linkedin-in",
+        "icon_class": "la-linkedin",
         "new_window": true,
         "type": "action"
       },
