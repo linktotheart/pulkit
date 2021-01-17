@@ -2,6 +2,7 @@
 
 /**
  * Mode info on what what this script does can be found here:
+ * Mode info on what what this script does can be found here:
  * https://www.netlifycms.org/docs/add-to-your-site/#add-the-netlify-identity-widget
  */
 

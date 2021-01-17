@@ -1,5 +1,5 @@
 const siteMetadata = require('./site-metadata.json')
-
+// new comment for dev /
 module.exports = {
     pathPrefix: '/',
     siteMetadata: siteMetadata,

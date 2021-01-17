@@ -1,7 +1,6 @@
 /**
  * Implement Gatsby's Browser APIs in this file.
  *
- * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
 
 // onPreRouteUpdate() and onRouteUpdate() are called before onInitialClientRender,

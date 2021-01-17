@@ -167,6 +167,47 @@
     }
   }
 }
+/* skills section  */ 
+.skills{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	.skill{
+		margin: 0.25rem 1.55rem;
+		padding: 0.25rem 0;
+		display: flex;
+		flex-direction: row;
+		margin-bottom: .25rem;
+		align-items: center;
+		width: auto;
+		position : relative;
+		color: #343437;
+		transition: color .35s ease .35s;
+		&::before{
+			content: '';
+			position: absolute;
+			width: 2rem;
+			height: 2rem;
+			left: -.75rem;
+			background: #f7f7f7;
+			z-index: -1;
+			transition: width 0.5s ease, background .35s ease .35s;
+			border-radius: 50px;
+		}
+		&:hover{
+			color: #fff;
+			&::before{
+				background: #128;
+				width: calc(100% + 1.75rem);
+			}
+		}
+		i{
+			font-size: 1.75rem;
+			align-self: middle;
+			padding-right: .5rem;
+		}
+	}
+}
 
 /* Testimonials section */
 .testimonial {

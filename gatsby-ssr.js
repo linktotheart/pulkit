@@ -1,6 +1,7 @@
 /**
  * Implement Gatsby's SSR (Server Side Rendering) APIs in this file.
  *
+ * with theme included using starter
  * See: https://www.gatsbyjs.org/docs/ssr-apis/
  */
 
