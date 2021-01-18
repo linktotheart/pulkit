@@ -7,6 +7,10 @@ sections:
       Hi there! Thank you so much for your interest in working together. Please
       fill the contact form below or send us an email at
       [pulkitsingh302@gmail.com](mailto:example@example.com).
+
+
+      <a href="tel:+917011587832" class="button"> Call Me <i class="las
+      la-phone-alt"></i> </a>
     form_action: /thank-you
     form_fields:
       - default_value: Your name
