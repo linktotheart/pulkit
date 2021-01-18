@@ -171,7 +171,8 @@
 .skills{
 	display: flex;
 	flex-wrap: wrap;
-	align-items: center;
+  align-items: center;
+  margin: 0 -1.5rem;
 	.skill{
     padding: .25rem 0;
     /* flex-direction: row; */
