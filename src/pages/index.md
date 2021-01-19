@@ -13,7 +13,7 @@ sections:
         style: link
         type: action
         url: >-
-          https://drive.google.com/file/d/1PDwC80b-9oZnL1u2AL8o4ZEmvWZAsc3d/view?usp=sharing
+          https://drive.google.com/file/d/1i7YcIGcAL4qU3F8rr0LcLlpQmWPEYHmI/view?usp=sharing
     content: >-
       I am a *UI/UX designer*, who loves to create modern, unique, and clean
       websites. I also enjoy crafting brand icons and illustrations. I love cats
