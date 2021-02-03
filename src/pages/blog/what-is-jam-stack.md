@@ -1,5 +1,5 @@
 ---
-title: 'What is Jam Stack? '
+title: What is Jam Stack? Is jamstack the future?
 subtitle: 'Rise of the Jamstack. Why choose jamstack? '
 date: 2021-02-03T04:50:52.319Z
 thumb_image: /images/jdbkabdandlad.png
