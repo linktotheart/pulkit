@@ -5,7 +5,7 @@
   "accent_color": "blue",
   "header": {
     "title": "Pulkit",
-    "logo_img": "/images/Group 1064.png",
+    "logo_img": "/images/logo-d.png",
     "has_nav": true,
     "nav_links": [
       {
@@ -79,10 +79,10 @@
         "type": "action"
       },
       {
-        "label": "Tumblr",
-        "url": "https://linktotheart.tumblr.com/",
+        "label": "Github",
+        "url": "https://github.com/pulkitsingh69",
         "style": "icon",
-        "icon_class": "la-tumblr",
+        "icon_class": "la-github",
         "new_window": true,
         "type": "action"
       }
