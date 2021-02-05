@@ -32,21 +32,24 @@ sections:
   - col_number: three
     grid_items:
       - content: >-
-          With CSS *frameworks*, javascript libs, *typography* and color
-          harmony, and a lint of creative tools like Adobe XD, Figma.
-        title: UI/UXDesign
-        type: grid_item
-      - content: >-
           Making websites more beautiful than ever, possibly with the latest web
           technologies in an efficient and reliable way.
+        image: /images/front-end.png
         title: Web Developing
+        type: grid_item
+      - content: >-
+          With CSS *frameworks*, javascript libs, *typography* and color
+          harmony, and a lint of creative tools like Adobe XD, Figma.
+        image: /images/website-design.png
+        title: UI/UXDesign
         type: grid_item
       - content: >-
           Using ionic and react-native as a base to create modern and beautiful
           hybrid apps from scratch.
+        image: /images/mobile-app.png
         title: App developing
         type: grid_item
-    is_numbered: true
+    is_numbered: false
     section_id: services
     subtitle: ''
     title: Specializing In
