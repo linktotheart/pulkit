@@ -191,8 +191,8 @@
 			width: 2rem;
 			height: 2rem;
       left: -.75rem;
-      top: 03px;
-			background: rgba(_palette(charcoal-light-3), 0.75);
+      top: 01px;
+			background: rgba(_palette(charcoal-light-3), 0.075);
 			z-index: -1;
 			transition: width 0.5s ease, background .35s ease .35s;
 			border-radius: 50px;
@@ -237,6 +237,7 @@
 .testimonial-avatar {
   border-radius: 50%;
   height: 60px;
+  margin: 0;
   margin-right: 0.83333em;
   width: 60px;
 }

@@ -111,8 +111,8 @@
   input[type="button"],
   input[type="reset"],
   .button {
-    border-color: _palette(accent-green);
-    color: _palette(accent-green);
+    background: rgba(_palette(accent-green),1);
+    box-shadow: 0 10px 20px -10px rgba(_palette(accent-green),.5);
 
     &:hover,
     &:focus,
@@ -129,6 +129,10 @@
   .view-all-button:after,
   .line-top:before {
     border-color: _palette(accent-green);
+  }
+
+  .skills .skill:hover::before {
+    background: rgba(_palette(accent-green),.95);
   }
 }
 
@@ -152,8 +156,8 @@
   input[type="button"],
   input[type="reset"],
   .button {
-    border-color: _palette(accent-blue);
-    color: _palette(accent-blue);
+    background: rgba(_palette(accent-blue),1);
+    box-shadow: 0 10px 20px -10px rgba(_palette(accent-blue),.5);
 
     &:hover,
     &:focus,
@@ -170,6 +174,9 @@
   .view-all-button:after,
   .line-top:before {
     border-color: _palette(accent-blue);
+  }
+  .skills .skill:hover::before {
+    background: rgba(_palette(accent-blue),.95);
   }
 }
 
@@ -193,8 +200,8 @@
   input[type="button"],
   input[type="reset"],
   .button {
-    border-color: _palette(accent-violet);
-    color: _palette(accent-violet);
+    background: rgba(_palette(accent-violet),1);
+    box-shadow: 0 10px 20px -10px rgba(_palette(accent-violet),.5);
 
     &:hover,
     &:focus,
@@ -211,6 +218,9 @@
   .view-all-button:after,
   .line-top:before {
     border-color: _palette(accent-violet);
+  }
+  .skills .skill:hover::before {
+    background: rgba(_palette(accent-violet),.95);
   }
 }
 
@@ -234,8 +244,8 @@
   input[type="button"],
   input[type="reset"],
   .button {
-    border-color: _palette(accent-yellow);
-    color: _palette(accent-yellow);
+    background: rgba(_palette(accent-yellow),1);
+    box-shadow: 0 10px 20px -10px rgba(_palette(accent-yellow),.5);
 
     &:hover,
     &:focus,
@@ -252,5 +262,8 @@
   .view-all-button:after,
   .line-top:before {
     border-color: _palette(accent-yellow);
+  }
+  .skills .skill:hover::before {
+    background: rgba(_palette(accent-yellow),.95);
   }
 }

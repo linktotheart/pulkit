@@ -19,7 +19,7 @@ sections:
       websites. I also enjoy crafting brand icons and illustrations. I love cats
       and 90's retro games.
     section_id: hero
-    title: 'Hello I''m Pulkit Singh, A Full-Stack Designer!'
+    title: 'Hey I''m Pulkit Singh, A Full-Stack Designer!'
     type: section_hero
   - layout_style: mosaic
     projects_number: 6
@@ -32,8 +32,8 @@ sections:
   - col_number: three
     grid_items:
       - content: >-
-          Mastering CSS *frameworks*, javascript libs, *typography* and color
-          harmony, with lint of advanced tools like Adobe XD, Figma.
+          With CSS *frameworks*, javascript libs, *typography* and color
+          harmony, and a lint of creative tools like Adobe XD, Figma.
         title: UI/UXDesign
         type: grid_item
       - content: >-
@@ -42,7 +42,7 @@ sections:
         title: Web Developing
         type: grid_item
       - content: >-
-          Using ionic, and react-native as a base to create modern and beautiful
+          Using ionic and react-native as a base to create modern and beautiful
           hybrid apps from scratch.
         title: App developing
         type: grid_item

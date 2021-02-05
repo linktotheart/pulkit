@@ -1,7 +1,7 @@
 
 // Font.
 $font: (
-  primary: ("Karla",sans-serif),
+  primary: ("Poppins",sans-serif),
   monospace: (Consolas,Monaco,"Andale Mono","Ubuntu Mono",monospace)
 );
 
@@ -17,9 +17,9 @@ $palette: (
   charcoal-light-75: lighten(#272c30, 75%),
   charcoal-light-80: lighten(#272c30, 80%),
   charcoal-dark-15:  darken(#272c30, 15%),
-  accent:            #d8195e,
-  accent-blue:       #0c8aea,
-  accent-green:      #0da5b1,
+  accent:            rgb(255,71,87),
+  accent-blue:       rgb(26,92,255),
+  accent-green:      rgb(70,201,58),
   accent-violet:     #7c43a8,
   accent-yellow:     #ed9700
 );
