@@ -8,7 +8,7 @@ media_folder: static/images
 public_folder: /images
 collections:
   - name: post
-    label: New Journal
+    label: Journals
     folder: src/pages/blog
     create: true
     extension: md
@@ -59,7 +59,7 @@ collections:
       field: template
       value: post
   - name: project
-    label: New Projects
+    label: Projects
     folder: src/pages/portfolio
     create: true
     extension: md
@@ -983,7 +983,7 @@ collections:
             required: true
             default: portfolio
   - name: page
-    label: Add Page
+    label: Pages
     folder: src/pages
     create: true
     extension: md

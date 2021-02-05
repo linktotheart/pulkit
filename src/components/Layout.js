@@ -16,7 +16,7 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.excerpt', null) || _.get(this.props, 'pageContext.site.siteMetadata.description', null)}/>
-                    <link href="https://fonts.googleapis.com/css?family=Poppins:400,400i,600,600i&display=swap" rel="stylesheet"/> 
+                    <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,600,600i&display=swap" rel="stylesheet"/> 
                 </Helmet>
                 <div id="page" className={'site palette-' + _.get(this.props, 'pageContext.site.siteMetadata.color_scheme', null) + ' accent-' + _.get(this.props, 'pageContext.site.siteMetadata.accent_color', null)}>
                   <Header {...this.props} />
