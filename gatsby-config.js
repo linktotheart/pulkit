@@ -11,14 +11,18 @@ module.exports = {
         `gatsby-plugin-sharp`,
         {
             resolve:  `gatsby-plugin-social9-comment`,
-            options: {
-                id: "s9-sdk",
-                async: true,
-                defer: true,
-                content: "186fd307066942488e96962e38c8c94f",
-                src: "socialshare.min.js"
-              },
         },
+        {
+            resolve: "gatsby-plugin-load-script",
+            options: {
+            id: "s9-sdk",
+            async: true,
+            defer: true,
+            content: "186fd307066942488e96962e38c8c94f",
+            src: "socialshare.min.js"
+            },
+        },
+
         {
             resolve: `gatsby-source-filesystem`,
             options: {
