@@ -40,9 +40,9 @@ export default class Post extends React.Component {
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                   </div>
 
-                  <div className="share" style={{marginTop: "2.5rem"}}>
+                  <div className="share">
                     <div className="inner-sm">
-                     <div class="s9-widget-wrapper" style={{marginBottom="2rem"}}></div>
+                     <div class="s9-widget-wrapper" ></div>
 
                       <S9comment />
                     </div>
