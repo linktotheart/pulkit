@@ -39,10 +39,15 @@ export default class Post extends React.Component {
                   <div className="post-content inner-sm">
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                   </div>
-                  <div className="share">
-                  <S9comment />
 
+                  <div className="share" style={{marginTop: "2.5rem"}}>
+                    <div className="inner-sm">
+                     <div class="s9-widget-wrapper" style={{marginBottom="2rem"}}></div>
+
+                      <S9comment />
+                    </div>
                   </div>
+
                   <footer className="post-meta inner-sm">
                     <time className="published" dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%B %d, %Y')}</time>
                   </footer>
