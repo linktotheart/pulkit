@@ -1,16 +1,25 @@
 ---
 title: About Me
 subtitle: 'INFP | Scorpio | Wallflower | Geek '
-image: /images/Untitled design.jpg
+image: /images/newUpload.jpg
 template: page
 ---
-Pulkit Singh is a creative, full-stack developer, who likes to design website from scratch in a mannerly yet modern-creative way. From Branding to illustrations,  and app designs, we got you covered. He spent most of his time reading and thinking about the mysteries of cosmos, and trying out new frameworks/libraries. Since 2020 been a good year for new JavaScript Libraries. or on his PlayStation  He believes, there's always something new to do, or try. 
+> ## I am a passionate front-end developer and ui/uxdesigner with a keen eye for details.
+
+
+A story of hardwork and perseverance.
+
+Hi! I'm Pulkit Singh. I have a strong passion for design and technology. I specialize in Front End Development and UI/UX Design and my passion is all about building elegant and professional user interfaces and websites. I also do branding and identity design such as logo design, letterhead and business card, along with photo editing, image cropping and other graphic design services.
 
 <!--StartFragment-->
 
-As a self-taught developer I had the chance to broaden my horizon by studying **Computer Science Engineering** where I hold a Bachelors' degree.  While learning, that I enjoy development more than these fields, the time in this sector greatly improved my overall experience and technical skills.
+I live in the Delhi, India. I am a graduate of Information Technology from ABES Institute of Technology, AKTU. I started drawing and designing from a young age and most of my design skills and knowledge are self-taught. I got into programming when I was introduced to web programming during high school. It fascinated me and it hooked me on, so I decided to pursue this career. Even though I took the path of becoming a programmer, my strong and innate talent in arts and design persisted. Consequently, I taught myself about software design patterns. Combining the state of the art and my programming knowledge, I am able to build a professional and interactive websites.
 
 <!--EndFragment-->
+
+I will not stick around on just doing Front End development projects. My goal is to take it to the next level of becoming a Full Stack Developer and become one of the world's top designers, so now, I am working towards it. I have prepared myself to accept the challenges into this ever changing world and I will try my very best to achieve my dreams and goals.
+
+
 
 ## **Personal Experience**
 
@@ -32,5 +41,11 @@ Starting out at the age of 13 I never stopped learning new programming skills an
 ![](/images/svosndlsdnc.png)
 
 > The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+
+
+
+
+
+![](/images/newAboutt.jpg)
 
 *Thank You for reading!*
