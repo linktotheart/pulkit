@@ -388,7 +388,7 @@ input[type="reset"],
   -webkit-transition: .3s ease;
   transition: .3s ease;
 
-  &:hover{
+  &:hover:not(.menu-toggle){
     box-shadow: 0 20px 20px -10px rgba(_palette(accent),.5);
     transform: translateY(-5px);
   }
@@ -539,7 +539,7 @@ img {
   }
 
   h1 {
-    font-size: 2.22222em;
+    font-size: 2.11111em;
   }
   
   h2 {
@@ -547,7 +547,7 @@ img {
   }
 
   blockquote {
-    font-size: 1.33333em;
+    font-size: 1.22222em;
   }
 }
 

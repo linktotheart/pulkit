@@ -3,7 +3,7 @@
  */
 .icon-menu,
 .icon-close {
-  background: currentColor;
+  background: #787877;
   border-radius: 1px;
   color: inherit;
   height: 2px;
@@ -16,7 +16,7 @@
 
   &:before,
   &:after {
-    background: currentColor;
+    background: #787877;
     border-radius: 1px;
     content: "";
     height: 100%;
