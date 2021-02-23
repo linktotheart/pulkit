@@ -1,7 +1,6 @@
 const siteMetadata = require("./site-metadata.json");
 // new comment for dev /
 module.exports = {
-<<<<<<< HEAD
   pathPrefix: "/",
   siteMetadata: siteMetadata,
   plugins: [
@@ -33,7 +32,6 @@ module.exports = {
       },
     },
   ],
-=======
     pathPrefix: '/',
     siteMetadata: siteMetadata,
     plugins: [
@@ -79,5 +77,4 @@ module.exports = {
             }
         }
     ]
->>>>>>> 9d9f24154b1f4461fa06bfc2024aa7c1f5da1408
 };
