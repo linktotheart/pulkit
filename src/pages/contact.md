@@ -1,7 +1,7 @@
 ---
 title: Contact Me
 hide_title: false
-excerpt: Contact Us | Pulkit Singh | Developer
+excerpt: Contact | Pulkit Singh | Developer
 sections:
   - content: >-
       Hi there! Thank you so much for your interest in working together. Please

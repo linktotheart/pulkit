@@ -2,6 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
 import {graphql} from 'gatsby';
+import { S9comment } from 'gatsby-plugin-social9-comment'
 
 import {Layout} from '../components/index';
 import {htmlToReact, withPrefix} from '../utils';
@@ -38,7 +39,15 @@ export default class Post extends React.Component {
                   <div className="post-content inner-sm">
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                   </div>
-                  <div className="share"></div>
+
+                  <div className="share">
+                    <div className="inner-sm">
+                     <div class="s9-widget-wrapper" ></div>
+
+                      <S9comment />
+                    </div>
+                  </div>
+
                   <footer className="post-meta inner-sm">
                     <time className="published" dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%B %d, %Y')}</time>
                   </footer>

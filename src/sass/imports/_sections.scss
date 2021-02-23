@@ -263,3 +263,30 @@
     }
   }
 }
+
+section#services .grid-item-image {
+  max-width: 80px;
+}
+.alert{
+  position: relative;
+  padding: 0.75rem 1rem;
+  margin-bottom: 1rem;
+  margin-top: .5rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  &.info{
+    color: #10516c;
+    background-color: #d2ebf5;
+    border-color: #c0e3f2;
+  }
+  &.danger{
+    color: #712b29;
+    background-color: #f7dddc;
+    border-color: #f4cfce;
+  }
+  &.warning{
+    color: #714410;
+    background-color: #f7e6d2;
+    border-color: #f4dcc0;
+  }
+}

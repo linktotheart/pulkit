@@ -24,7 +24,7 @@ Starting out at the age of 13 I never stopped learning new programming skills an
 
 1. **Technical Head** (Big data 2018) - ABESIT Ghaziabad
 2. **Graphics Designer** at Alamiy Creations, Delhi (Dec 2018 - march 2019)
-3. **Web Developer** at Clanstech Pvt Ltd, Noida. (Feb 2020 - Aug 2020)
+3. **UI/UX Developer** at Clanstech Pvt Ltd, Noida. (Feb 2020 - Aug 2020)
 4. **Web Developer** at Corpseed ITES Ltd, Noida (Sep 2020 - Current date)
 
 \==========================================================
