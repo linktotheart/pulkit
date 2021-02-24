@@ -117,31 +117,6 @@ sections:
     subtitle: ''
     title: Skills and Expertise
     type: section_grid
-  - col_number: three
-    section_id: testimonials
-    subtitle: What clients are saying
-    testimonials:
-      - author: Nikita Shelar
-        avatar: images/sean_salazar.jpg
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
-        type: testimonial
-      - author: Garima Ajaye
-        avatar: images/aubrey_hoover.jpg
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        type: testimonial
-      - author: 'Irina '
-        avatar: images/deegan_wallace.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
-        type: testimonial
-    title: Testimonials
-    type: section_testimonials
   - actions:
       - label: View All Blog
         style: button
