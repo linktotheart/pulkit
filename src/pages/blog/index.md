@@ -1,6 +1,6 @@
 ---
 title: Blogs
-subtitle: Case Studies
+subtitle: ''
 hide_title: false
 col_number: three
 template: blog
