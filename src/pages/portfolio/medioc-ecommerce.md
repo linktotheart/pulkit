@@ -2,10 +2,10 @@
 title: Medioc - eCommerce
 subtitle: 'Medioc - Herbal E-commerce Platform '
 date: 2021-02-24T10:23:32.663Z
-thumb_image: /images/Yellow and Pink Beauty and Fashion Blog Banner.jpg
-image: >-
+thumb_image: >-
   /images/Comfort Zone Self Help Instagram Template with Laptop Mockup and
   Abstract Shapes.jpg
+image: /images/Yellow and Pink Beauty and Fashion Blog Banner.jpg
 template: project
 ---
 **Medioc - Herbal E-commerce Platform** 
