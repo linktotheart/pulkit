@@ -28,8 +28,6 @@ As a result, the resources spent on web development are minimized. And the manag
 
 ![Why Headless CMS is the Future of Web](https://miro.medium.com/max/1280/0*RW8PIJKWZ_bQqsf4)
 
-
-
 <!--EndFragment-->
 
 <!--StartFragment-->
@@ -41,8 +39,6 @@ The main value of the approach implemented in Headless CMS is **omnichannel read
 **Reducing development costs** is the second major benefit. Under certain conditions, Headless CMS is cheaper to install and configure. Developers do not need to master the control system “from and to”, it is enough to understand the administrative interface and API.
 
 **Accelerating the implementation of new projects** is also an important plus for business. Due to the flexibility of using content, in Headless CMS, the process of launching a website or application takes less time. In addition, the industry standards **RESTful** and **GraphQL** provide a quick start when deploying a new project: developers do not need to lay the architectural foundations and master tooling around these technologies.
-
-
 
 ![Why Headless CMS is the Future of Web](https://miro.medium.com/max/732/0*eJC_1ahOL1ARddyX.jpg)
 
@@ -70,23 +66,15 @@ There are many CMSs that support [Jamstack](https://pulkits.netlify.app/blog/wha
 
 All such CMS are presented at **[headlesscms.org](http://headlesscms.org/)**. Most of them are open source solutions.
 
-
-
 <!--EndFragment-->
-
-
 
 <div class="alert warning">
 
 Headless CMS can involve self-deployment on a server or upload to a CDN service. Some systems work through cloud providers. Many people support creating a model and then filling it with content. Another selection criterion: using GraphQL or REST API (or both in one product). </div>
 
-
-
 # Conclusion
 
 With the further development of digital products, Headless CMS is likely to be more preferred over traditional *WordPress* or *Joomla*. There is every reason to believe that the future belongs to the “**headless**” systems.
-
-
 
 ##### **Headless CM — Why the future belongs to that**
 
