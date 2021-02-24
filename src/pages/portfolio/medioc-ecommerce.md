@@ -12,11 +12,21 @@ template: project
 
 Medioc is an authentic Indian Herbal Medicinal website store. They wanted an upfront for feeling natural and clean through the website, so that's the color palettes are.
 
+
+
 ![](/images/cpladjbabsd.png "Palettes")
+
+
+
+\------------------------------------------------------------------------------------------------------------------------
+
+
 
 Homepage
 
 ![](/images/medioplus-vercel-app-1024xFULLdesktop-17da96.jpg)
+
+
 
 <!--StartFragment-->
 
@@ -24,6 +34,20 @@ Homepage
 
 <!--EndFragment-->
 
+
+
+
+
 ![](/images/medioplus-vercel-app-1024x768desktop-d0ecde.jpg "Login")
+
+
+
+
+
+
+
+
+
+
 
 <a href="https://medioplus.vercel.app/" target="_blank" class="button"> See Live Demo </a>
