@@ -1,16 +1,16 @@
 # ✨ Pulkit SIngh ✨
 
 
-This is a [Gatsby](https://gatsbyjs.com) site using [Netlify CMS](https://www.netlifycms.org) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). It was created with [Stackbit](https://www.stackbit.com?utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes) in under a minute.
+This is a [Gatsby](https://gatsbyjs.com) site using [Netlify CMS](https://www.netlifycms.org) as a [CMS](https://en.wikipedia.org/wiki/Content_management_system). 
 
 
 
 <details>
         <summary>🎨 &nbsp;<strong>Look</strong></summary>
         <ul>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-fjord&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">A minimal blogging theme</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-ampersand&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Medium inspired blogging theme</a></li>
-                <li><a href="https://app.stackbit.com/create?theme=https://github.com/stackbithq/stackbit-theme-starter&utm_source=project-readme&utm_medium=referral&utm_campaign=user_themes">Ultra customizable starter. A developers&#39; favorite.</a></li>
+                <li><a href="#">A minimal blogging theme</a></li>
+                <li><a href="#">Medium inspired blogging theme</a></li>
+                <li><a href="#">Ultra customizable starter. A developers&#39; favorite.</a></li>
                 </ul>
 </details>
 
@@ -32,6 +32,13 @@ This is a [Gatsby](https://gatsbyjs.com) site using [Netlify CMS](https://www.ne
         npm run develop
 
 1. Open [http://localhost:8000/](http://localhost:8000/) in the browser
+
+## Add me help new feature
+1. Submit a new PR 
+2. add proper functioning and documentation
+3. i'll approve and merge
+
+> `Thank You -m "Pulkit Singh"`
 
 1. 🎉
 
